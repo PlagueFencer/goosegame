@@ -8,4 +8,6 @@ Just a simple game which i made in 1 day.
 4. Now, print `python3 main.py` or `python main.py` in terminal to open a game
 5. Play and enjoy.
 
-||*Матеріали та ідея: Python марафон від GoIT*||
+
+
+*Матеріали та ідея: Python марафон від GoIT*
