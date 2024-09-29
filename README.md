@@ -1,2 +1,2 @@
 # Goose Game
-.
+GooseGame
